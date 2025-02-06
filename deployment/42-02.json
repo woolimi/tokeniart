@@ -1,0 +1,19 @@
+{
+  "name": "Art42-02",
+  "external_url": "https://ipfs.io/ipfs/QmcdJfNToKFJBPgGUhgjDEKKnhPJJdtdzMKFf13pk2kbvc",
+  "image": "ipfs://QmcdJfNToKFJBPgGUhgjDEKKnhPJJdtdzMKFf13pk2kbvc",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "wpark"
+    },
+    {
+      "trait_type": "Name",
+      "value": "Lily"
+    },
+    {
+      "trait_type": "Lv",
+      "value": "10"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Art42-04",
+  "external_url": "https://ipfs.io/ipfs/QmaYvzXAJDcrnKX9Qu8xBQW8QGjXGKLtF6P2j2EULKnUB7",
+  "image": "ipfs://QmaYvzXAJDcrnKX9Qu8xBQW8QGjXGKLtF6P2j2EULKnUB7",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "wpark"
+    },
+    {
+      "trait_type": "Name",
+      "value": "Victoria"
+    },
+    {
+      "trait_type": "Lv",
+      "value": "19"
+    }
+  ]
+}

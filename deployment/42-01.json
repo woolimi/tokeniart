@@ -1,0 +1,19 @@
+{
+  "name": "Art42-01",
+  "external_url": "https://ipfs.io/ipfs/QmRpG448DYs89viUa7X7SXJxCW1qkJLaZ1w5CWK3UniPfE",
+  "image": "ipfs://QmRpG448DYs89viUa7X7SXJxCW1qkJLaZ1w5CWK3UniPfE",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "wpark"
+    },
+    {
+      "trait_type": "Name",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Lv",
+      "value": "4"
+    }
+  ]
+}

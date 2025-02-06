@@ -1,0 +1,19 @@
+{
+  "name": "Art42-03",
+  "external_url": "https://ipfs.io/ipfs/QmWtYmjX5rMMZXjYRp5eoLTX1UskvhxTZLSZDyjtxaLrcZ",
+  "image": "ipfs://QmWtYmjX5rMMZXjYRp5eoLTX1UskvhxTZLSZDyjtxaLrcZ",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "wpark"
+    },
+    {
+      "trait_type": "Name",
+      "value": "James"
+    },
+    {
+      "trait_type": "Lv",
+      "value": "21"
+    }
+  ]
+}
